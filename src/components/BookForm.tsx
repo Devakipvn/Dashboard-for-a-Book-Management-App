@@ -123,7 +123,7 @@ const BookForm: React.FC<Props> = ({ open, onClose, onSubmit, initialData }) => 
           onChange={handleChange}
         >
           <MenuItem value="Available">Available</MenuItem>
-          <MenuItem value="Issued">Issued </MenuItem>
+          <MenuItem value="Issued">Issued</MenuItem>
           <MenuItem value="Reversed">Reversed</MenuItem>
           <MenuItem value="Pending">Pending</MenuItem>
           <MenuItem value="Returned">Returned</MenuItem>

@@ -204,7 +204,7 @@ const Dashboard: React.FC = () => {
           {Array.from({ length: totalPages }, (_, i) => (
             <Button
               key={i + 1}
-              variant={currentPage === i + 1 ? "contained" : "outlined"}
+              variant={currentPage === i + 1 ? "contained" : "outlined" }
               onClick={() => setCurrentPage(i + 1)}
             >
               {i + 1}

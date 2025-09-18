@@ -40,7 +40,7 @@ const BookTable: React.FC<BookTableProps> = ({
             <TableCell sx={{ color: "#fff" }}>Title</TableCell>
             <TableCell sx={{ color: "#fff" }}>Author</TableCell>
             <TableCell sx={{ color: "#fff" }}>Genre</TableCell>
-            <TableCell sx={{ color: "#fff" }}>Year </TableCell>
+            <TableCell sx={{ color: "#fff" }}>Year</TableCell>
             <TableCell sx={{ color: "#fff" }}>Status</TableCell>
             <TableCell sx={{ color: "#fff" }}>Actions</TableCell>
           </TableRow>

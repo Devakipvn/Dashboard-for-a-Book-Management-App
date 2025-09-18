@@ -25,7 +25,7 @@ export const updateBook = async (id: string, updated: Book): Promise<Book> => {
   const { id: _, _id, ...payload } = updated;
 
   await axios.put(`${API_BASE}/${id}`, payload);
-  return { ...updated, id };
+  return { ...updated, id } ;
 };
 
 export const deleteBook = async (id: string): Promise<void> => {
