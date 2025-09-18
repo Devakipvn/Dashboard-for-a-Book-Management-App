@@ -1,46 +1,76 @@
-# Getting Started with Create React App
+# 📚 Book Management Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive React.js dashboard to **manage a list of books**. This app allows users to **fetch, add, edit, and delete books** using a mock API (CrudCrud) and demonstrates modern React practices including React Query, React Router, and Material-UI.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🔹 Objective
 
-### `npm start`
+Build a responsive React.js dashboard that fetches, displays, and allows CRUD operations on a list of books using a mock API.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ⚡ Features
 
-### `npm test`
+- **View Books**: Display all books in a user-friendly table/dashboard.
+- **Add Books**: Add new books to the list.
+- **Edit Books**: Update book details easily.
+- **Delete Books**: Remove books from the dashboard.
+- **Responsive Design**: Works perfectly on mobile, tablet, and desktop.
+- **User Feedback**: Notifications and error handling with `notistack`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠 Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend**: React.js, TypeScript
+- **UI Components**: Material-UI, Tailwind CSS
+- **State Management & API**: React Query
+- **Routing**: React Router (`HashRouter` for GitHub Pages)
+- **Notifications**: Notistack
+- **API**: Mock API using CrudCrud
+- **Version Control**: Git & GitHub
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Getting Started
 
-### `npm run eject`
+### **1. Clone the repository**
+```bash
+git clone https://github.com/Devakipvn/Dashboard-for-a-Book-Management-App.git
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+cd Dashboard-for-a-Book-Management-App
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**2. Install dependencies**
+```bash
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**3. Run the app locally**
+```bash
+npm start
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Open http://localhost:3000** to view it.
 
-## Learn More
+The page reloads automatically if you make changes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**4. Run tests (optional)**
+```bash
+npm test
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**5. Build for production**
+```bash
+npm run build
+```
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3be614f-d2ca-4f9d-8889-bb420acfceab" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3768d6d4-4eb1-4846-92aa-c6ff5e0a9e66" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32ed6433-990a-4ef4-8050-5259843b316f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20c4d3e8-a705-44ba-821c-98debda16e92" />
+
+
+
+
