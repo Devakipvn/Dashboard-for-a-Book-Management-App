@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Dashboard-for-a-Book-Management-App/static/css/main.e6c13ad2.css",
-    "main.js": "/Dashboard-for-a-Book-Management-App/static/js/main.322c6e15.js",
+    "main.js": "/Dashboard-for-a-Book-Management-App/static/js/main.f4d96c95.js",
     "static/js/453.1d4b3008.chunk.js": "/Dashboard-for-a-Book-Management-App/static/js/453.1d4b3008.chunk.js",
     "index.html": "/Dashboard-for-a-Book-Management-App/index.html",
     "main.e6c13ad2.css.map": "/Dashboard-for-a-Book-Management-App/static/css/main.e6c13ad2.css.map",
-    "main.322c6e15.js.map": "/Dashboard-for-a-Book-Management-App/static/js/main.322c6e15.js.map",
+    "main.f4d96c95.js.map": "/Dashboard-for-a-Book-Management-App/static/js/main.f4d96c95.js.map",
     "453.1d4b3008.chunk.js.map": "/Dashboard-for-a-Book-Management-App/static/js/453.1d4b3008.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.322c6e15.js"
+    "static/js/main.f4d96c95.js"
   ]
 }
