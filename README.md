@@ -70,8 +70,3 @@ npm run build
 ![Dashboard Screenshot]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3768d6d4-4eb1-4846-92aa-c6ff5e0a9e66" />
 ![Edit a Book Screenshot]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32ed6433-990a-4ef4-8050-5259843b316f" />
 ![Delete a Book Screenshot]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20c4d3e8-a705-44ba-821c-98debda16e92" />
-
-
-
-
->>>>>>> d701b22f8df60654801cca6cfa85a2eef5f1e452
